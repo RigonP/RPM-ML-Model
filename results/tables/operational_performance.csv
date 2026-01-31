@@ -1,0 +1,5 @@
+Metrika,Vlera,Standardi i Pranuar
+Koha mesatare e inferimit (1 koment),69ms,< 100ms
+Koha mesatare e inferimit (batch 100),166.4ms,< 5000ms
+Throughput (komente/sekondë),~14,> 100
+Memorja e kërkuar (model në RAM),~5MB,< 500MB

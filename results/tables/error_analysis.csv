@@ -1,0 +1,9 @@
+Lloji i Gabimit,Numri,Përqindja,Ndikimi në Sistem
+False Positive - Kritikë legjitime,28,2.1,I lartë
+False Positive - Gjuhë e fortë,39,2.9,I mesëm
+False Positive - Ironi,14,1.0,I ulët
+False Positive - Terminologji,9,0.7,I ulët
+False Negative - Gjuhë e koduar,474,35.4,I lartë
+False Negative - Toksicitet i përzier,337,25.1,I mesëm
+False Negative - Slang/dialekte,274,20.4,I mesëm
+False Negative - Sulme subtile,162,12.1,I lartë

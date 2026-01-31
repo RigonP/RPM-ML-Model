@@ -1,0 +1,7 @@
+Metrika,Vlera,Përshkrimi,Vlera (%)
+Accuracy,0.9580134732884223,Përqindja e parashikimeve të sakta,95.80134732884224
+Precision,0.9521304576538664,Përqindja e parashikimeve pozitive që janë vërtet pozitive,95.21304576538664
+Recall,0.5916966328865643,Përqindja e rasteve pozitive të identifikuara saktë,59.16966328865642
+F1-Score,0.7298387096774194,Mesatarja harmonike e precision dhe recall,72.98387096774194
+AUC-ROC,0.9768744891271947,Aftësia e modelit për të dalluar mes klasave,97.68744891271946
+Specificity,0.9968464097588023,Përqindja e rasteve negative të identifikuara saktë,99.68464097588023
